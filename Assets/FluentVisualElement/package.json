@@ -2,7 +2,7 @@
     "name": "com.nuskey.fluentvisualelement",
     "version": "1.0.0",
     "displayName": "Fluent Visual Element",
-    "description": "Provides fluent extension methods for Unity UIToolkit.",
+    "description": "Provides fluent extension methods for Unity UI Toolkit.",
     "author": {
         "name": "nuskey"
     }
